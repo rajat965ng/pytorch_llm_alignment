@@ -1,0 +1,6 @@
+tqdm
+datasets
+transformers
+wandb
+jupyter
+torch
